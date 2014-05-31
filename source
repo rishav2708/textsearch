@@ -1,0 +1,43 @@
+<div class="offset-2">
+						<div class="col-md-4 offset-0">
+							<div class="listitem2">
+								<a href="images/items/item7.jpg" data-footer="A custom footer text" data-title="A random title" data-gallery="multiimages" data-toggle="lightbox"><img src="images/items/item7.jpg" alt=""/></a>
+								<div class="liover"></div>
+								<a class="fav-icon" href="#"></a>
+								<a class="book-icon" href="details.html"></a>
+							</div>
+						</div>
+						<div class="col-md-8 offset-0">
+							<div class="itemlabel3">
+								<div class="labelright">
+									<img src="images/filter-rating-5.png" width="60" alt=""/><br/><br/><br/>
+									<img src="images/user-rating-5.png" width="60" alt=""/><br/>
+									<span class="size11 grey">18 Reviews</span><br/><br/>
+									<span class="green size18"><b>$36.00</b></span><br/>
+									<span class="size11 grey">avg/night</span><br/><br/><br/>
+									<form action="http://demo.titanicthemes.com/travel/details.html">
+									 <button class="bookbtn mt1" type="submit">Book</button>	
+									</form>			
+								</div>
+								<div class="labelleft2">			
+									<b>Mabely Grand Hotel</b><br/><br/><br/>
+									<p class="grey">
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec semper lectus. Suspendisse placerat enim mauris, eget lobortis nisi egestas et.
+									Donec elementum metus et mi aliquam eleifend. Suspendisse volutpat egestas rhoncus.</p><br/>
+									<ul class="hotelpreferences">
+										<li class="icohp-internet"></li>
+										<li class="icohp-air"></li>
+										<li class="icohp-pool"></li>
+										<li class="icohp-childcare"></li>
+										<li class="icohp-fitness"></li>
+										<li class="icohp-breakfast"></li>
+										<li class="icohp-parking"></li>
+										<li class="icohp-pets"></li>
+										<li class="icohp-spa"></li>
+									</ul>
+									
+								</div>
+							</div>
+						</div>
+					</div>
+
